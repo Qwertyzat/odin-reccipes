@@ -1,0 +1,2 @@
+# odin-reccipes
+odin-training
